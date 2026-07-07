@@ -1,0 +1,12 @@
+{
+  "name": "Decky Torrent",
+  "author": "DozeLabs",
+  "version": "1.0.0",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["torrent", "transmission", "rootless"],
+    "description": "A rootless background Transmission torrent client manager for Bazzite and SteamOS",
+    "image": "https://raw.githubusercontent.com/DozeLabs/decky-torrent/refs/heads/main/assets/logo.png"
+  }
+}
